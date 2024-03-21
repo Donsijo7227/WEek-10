@@ -27,24 +27,24 @@
       "image": "peach-mango.svg"
     },
     {
-      "name": "Strawberry Fields Forever",
-      "calories": 320,
+      "name": "ChocoBliss Delight",
+      "calories": 250,
       "type": "ice cream",
       "ingredients": [
-        "fresh strawberries",
-        "cream",
-        "sugar"
+        "Premium cocoa powder",
+        "Rich cream",
+        "Fine dark chocolate chunk"
       ],
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Tropical Tango",
+      "name": "Pistachio Pleasure Dream",
       "calories": 380,
       "type": "ice cream",
       "ingredients": [
-        "coconut milk",
-        "pineapple chunks",
-        "mango purée"
+        "Fresh pistachio paste",
+        "Wholesome milk",
+        "Hand-crushed pistachio nuts"
       ],
       "image": "ice-cream-xtra1.svg"
     }
